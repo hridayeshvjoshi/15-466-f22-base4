@@ -1,10 +1,10 @@
-# (TODO: your game's title)
+# Global Leader
 
-Author: (TODO: your name)
+Author: Hridayesh Joshi
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: This game would have allowed you to build up your own country by simulating real-world scenarios beyond just disease, unlike disease.
 
-Text Drawing: (TODO: how does the text drawing in this game work? Is text precomputed? Rendered at runtime? What files or utilities are involved?)
+Text Drawing: I was planning on precomputing the texts as I can just select the right one at runtime.
 
 Choices: (TODO: how does the game store choices and narrative? How are they authored? Anything nifty you want to point out?)
 
@@ -14,9 +14,9 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
-
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+The goal of the game is to make your country as strong as possible. This would have been measured by wealth and population. 
+The plan was to have a set of options for each scenario that may rise up, and there would be boxes on the side that would allow 
+you to select one of those options.
 
 This game was built with [NEST](NEST.md).
 
